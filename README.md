@@ -1,5 +1,9 @@
-# Student-Information-Management-System
 
+# Student-Information-Management-System
+---
+# 各位同学copy后记得给个star 
+---
+#
 ---
 
 - 复制代码后将全部文件放到同一文件下即可
